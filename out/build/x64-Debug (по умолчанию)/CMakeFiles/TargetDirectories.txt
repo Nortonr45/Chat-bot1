@@ -1,3 +1,0 @@
-C:/Users/metsu/source/repos/coutry/out/build/x64-Debug (по умолчанию)/CMakeFiles/coutry.dir
-C:/Users/metsu/source/repos/coutry/out/build/x64-Debug (по умолчанию)/CMakeFiles/edit_cache.dir
-C:/Users/metsu/source/repos/coutry/out/build/x64-Debug (по умолчанию)/CMakeFiles/rebuild_cache.dir
